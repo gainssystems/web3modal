@@ -1,5 +1,27 @@
 # @web3modal/scaffold-react
 
+## 5.0.0
+
+### Major Changes
+
+- Release V5
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @web3modal/scaffold@5.0.0
+
+## 5.0.0-cn-v5.0
+
+### Major Changes
+
+- Test V5
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @web3modal/scaffold@5.0.0-cn-v5.0
+
 ## 4.2.3
 
 ### Patch Changes
